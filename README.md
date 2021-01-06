@@ -1,4 +1,10 @@
-### Hi there 👋
+### Adan Schiffer [Ichiro]
+
+<!-- My stats -->
+[![Ichirodev's github stats](https://github-readme-stats.vercel.app/api?username=ichirodev&theme=tokyonight&hide_title=true&show_icons=true&)](https://github.com/ichirodev/github-readme-stats)
+
+<!-- My most used languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichirodev&layout=compact&theme=tokyonight&hide_title=true&langs_count=4)](https://github.com/ichirodev/github-readme-stats)
 
 <!--
 **ichirodev/ichirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
